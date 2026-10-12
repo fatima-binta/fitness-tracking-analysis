@@ -74,3 +74,7 @@ fitness-tracking-analysis/
 - Clean Max_BPM and Experience_Level in Power Query.
 - Add a calculated BMI from weight and height, or resolve the BMI inconsistency with the source.
 - Add sample sizes and statistical testing before drawing conclusions.
+
+## Author
+**Fatima Binta Mohammed**
+[LinkedIn](https://www.linkedin.com/in/fatima-binta-mohammed-094bb2414) | [GitHub](https://github.com/fatima-binta)
